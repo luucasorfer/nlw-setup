@@ -42,8 +42,9 @@ button {
 #form-habits {
   display: flex;
 
-  padding: 180px 48px 48px ;
-  width: fit-content; /*encaixe o conteudo*/
+  padding: 180px 48px 48px;
+  width: fit-content;
+  /*encaixe o conteudo*/
 }
 
 .habits {
