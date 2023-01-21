@@ -18,7 +18,7 @@ MLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 <br>
 
 <p align="center">
-  <img alt="Habits" src=".assets/preview.jpg" width="100%">
+  <img alt="Habits" src="./assets/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
