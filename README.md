@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-MLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. </br>
+NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. </br>
 </p>
 
 <p align="center">
