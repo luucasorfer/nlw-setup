@@ -21,7 +21,7 @@
   "workbench.colorTheme": "Dracula",
 
   // prettier
-  "editor.defaultFormatter": "SimonSiefke.prettier-vscode",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.enable": true,
   "prettier.singleQuote": false,
   "prettier.tabWidth": 2,
